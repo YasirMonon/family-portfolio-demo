@@ -1,0 +1,26 @@
+body{
+    font-family: 'Yatra One', cursive;
+}
+span{
+    color: red;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width img{
+width: 50%;
+padding-left: 20%;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(red,rgb(228, 68, 68));
+    padding: 10px 20px;
+    position: relative;
+    top: 10px;
+    border-radius: 10px;
+}
